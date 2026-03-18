@@ -1,0 +1,1 @@
+Questa repo ha lo scopo di fornire i dettagli del mio lavoro di Tesi. Lo scopo è stato misurare l'efficenza energetica del nuovo protocollo HTTP/3 nelle sue tre implementazioni principali Quiche, OpneSSL e Ngtcp2. 
