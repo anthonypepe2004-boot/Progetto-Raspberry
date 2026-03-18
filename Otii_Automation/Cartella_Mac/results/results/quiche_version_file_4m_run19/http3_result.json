@@ -1,0 +1,9 @@
+{
+  "implementation": "quiche_version",
+  "payload": "file_4m.bin",
+  "attempt": 19,
+  "url": "https://192.168.116.120:8888/file_4m.bin",
+  "start_ns": 1770660059055476383,
+  "stop_ns": 1770660060517024806,
+  "return_code": 0
+}

@@ -1,0 +1,9 @@
+{
+  "implementation": "ngtcp2_version",
+  "payload": "file_8k.bin",
+  "attempt": 19,
+  "url": "https://192.168.116.120:8888/file_8k.bin",
+  "start_ns": 1770663072180337546,
+  "stop_ns": 1770663072349747236,
+  "return_code": 0
+}

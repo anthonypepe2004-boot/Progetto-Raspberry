@@ -1,0 +1,9 @@
+{
+  "implementation": "openSSL_version",
+  "payload": "file_1k.bin",
+  "attempt": 30,
+  "url": "https://192.168.116.120:8888/file_1k.bin",
+  "start_ns": 1770660873150890507,
+  "stop_ns": 1770660873326200514,
+  "return_code": 0
+}

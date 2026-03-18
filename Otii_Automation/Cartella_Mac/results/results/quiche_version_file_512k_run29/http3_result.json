@@ -1,0 +1,9 @@
+{
+  "implementation": "quiche_version",
+  "payload": "file_512k.bin",
+  "attempt": 29,
+  "url": "https://192.168.116.120:8888/file_512k.bin",
+  "start_ns": 1770659819478595031,
+  "stop_ns": 1770659819909545730,
+  "return_code": 0
+}

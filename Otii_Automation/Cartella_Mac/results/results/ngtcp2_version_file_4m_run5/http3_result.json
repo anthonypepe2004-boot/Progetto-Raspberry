@@ -1,0 +1,9 @@
+{
+  "implementation": "ngtcp2_version",
+  "payload": "file_4m.bin",
+  "attempt": 5,
+  "url": "https://192.168.116.120:8888/file_4m.bin",
+  "start_ns": 1770663909701994267,
+  "stop_ns": 1770663912126789488,
+  "return_code": 0
+}

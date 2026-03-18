@@ -1,0 +1,24 @@
+x avviare il tutto: 
+caddy run
+
+da un'altro terminale lancia: python3 run_controller.py
+
+si aspetta 30 secondi per far accender il PI
+
+accedi via SSH ssh apepe11@192.168.1.xxx 
+fai partire device.py
+
+come configuro tutto via SSH?
+vedi direttamente li
+
+
+
+ Env.config = {
+        'otii': {
+            'hostname': '127.0.0.1',
+            'port': 4444,
+            'license_user': 'antonio1234',  
+            'license_psw': 'Antonio0000!',
+            'baudrate': 115200
+        }
+    }

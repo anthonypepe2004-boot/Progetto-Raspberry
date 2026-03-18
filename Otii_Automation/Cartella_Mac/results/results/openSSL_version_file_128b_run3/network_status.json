@@ -1,0 +1,66 @@
+{
+  "eth0": {
+    "inet": null,
+    "inet4": [],
+    "ether": "b8:27:eb:5f:40:b4",
+    "inet6": [],
+    "netmask": null,
+    "netmasks": [],
+    "broadcast": null,
+    "broadcasts": [],
+    "prefixlens": [],
+    "device": "eth0",
+    "flags": "4099<UP,BROADCAST,MULTICAST> ",
+    "mtu": "1500"
+  },
+  "lo": {
+    "inet": "127.0.0.1",
+    "inet4": [
+      "127.0.0.1"
+    ],
+    "ether": null,
+    "inet6": [
+      "::1"
+    ],
+    "netmask": "255.0.0.0",
+    "netmasks": [
+      "255.0.0.0"
+    ],
+    "broadcast": null,
+    "broadcasts": [
+      null
+    ],
+    "prefixlens": [
+      "128"
+    ],
+    "device": "lo",
+    "flags": "73<UP,LOOPBACK,RUNNING> ",
+    "mtu": "65536",
+    "_inet4": null
+  },
+  "wlan0": {
+    "inet": "192.168.96.72",
+    "inet4": [
+      "192.168.96.72"
+    ],
+    "ether": "b8:27:eb:0a:15:e1",
+    "inet6": [
+      "fe80::48d8:b774:f157:643b"
+    ],
+    "netmask": "255.255.224.0",
+    "netmasks": [
+      "255.255.224.0"
+    ],
+    "broadcast": "192.168.127.255",
+    "broadcasts": [
+      "192.168.127.255"
+    ],
+    "prefixlens": [
+      "64"
+    ],
+    "device": "wlan0",
+    "flags": "4163<UP,BROADCAST,RUNNING,MULTICAST> ",
+    "mtu": "1500",
+    "_inet4": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "implementation": "openSSL_version",
+  "payload": "file_4m.bin",
+  "attempt": 12,
+  "url": "https://192.168.116.120:8888/file_4m.bin",
+  "start_ns": 1770661981077652064,
+  "stop_ns": 1770661982026892101,
+  "return_code": 0
+}

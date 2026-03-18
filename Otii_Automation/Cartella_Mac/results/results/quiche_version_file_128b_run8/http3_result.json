@@ -1,0 +1,9 @@
+{
+  "implementation": "quiche_version",
+  "payload": "file_128b.bin",
+  "attempt": 8,
+  "url": "https://192.168.116.120:8888/file_128b.bin",
+  "start_ns": 1770658300773402626,
+  "stop_ns": 1770658301095623307,
+  "return_code": 0
+}

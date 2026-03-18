@@ -1,0 +1,15 @@
+{
+    # Abilita HTTP/3
+    servers {
+        protocols h1 h2 h3
+    }
+}
+
+
+
+192.168.116.120:8888 {
+    root * /Users/antoniopepe/Desktop/Cartella_Mac/Caddy/payloads
+    file_server
+
+    tls internal
+}

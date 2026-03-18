@@ -1,0 +1,14 @@
+la Cartella_Raspberry deve stare in ~/Cartella_Raspberry/
+
+controlla tutti i percorsi se si trovano 
+controlla se i curl hanno i permessi di amministratore
+
+assicurati che logs e results siano scrivibili
+mkdir -p ~/Cartella_Raspberry/logs
+mkdir -p ~/Cartella_Raspberry/results
+
+
+per avviare lo script 
+
+cd ~/Cartella_Raspberry/device
+python3 device.py
